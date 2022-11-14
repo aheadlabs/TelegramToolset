@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Version>0.1.0</Version>
+		<Authors>Ahead Labs, S.L.</Authors>
+		<Description>Telegram related library that helps in data parsing and bot multi step operations.</Description>
+		<Copyright>Ahead Labs, S.L.</Copyright>
+		<PackageLicenseFile>LICENSE</PackageLicenseFile>
+		<PackageProjectUrl>https://github.com/aheadlabs/TelegramToolset</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/aheadlabs/TelegramToolset</RepositoryUrl>
+		<RepositoryType>Git</RepositoryType>
+		<PackageTags>dotnet, telegram, bot</PackageTags>
+		<NeutralLanguage>en-US</NeutralLanguage>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+</Project>
